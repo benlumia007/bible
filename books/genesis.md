@@ -9,3 +9,8 @@
 6. And God said, "Let there be a vault between the waters to separate water from water.
 7. So God made the vault and separated the water under the vault from the water above it. And it was so.
 8. God called the vault "Sky". And there was evening, and there was morning, the second day.
+9. And God said, “Let the water under the sky be gathered to one place, and let dry ground appear.” And it was so. 
+10. God called the dry ground “land,” and the gathered waters he called “seas.” And God saw that it was good.
+11. Then God said, "Let the land produce vegetation: seed-bearing plants and trees on the land that bear fruit with seed init, according to their various kinds." And it was so.
+12. THe land produced vegatation: plants bearing seed according to their kinds and trees bearing fruit with seed in it according to their kinds. And God saw it was good.
+13. And there was evening, and there was morning, the third day.
